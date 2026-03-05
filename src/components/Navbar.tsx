@@ -7,7 +7,7 @@ const navItems = [
   { label: "Skills", href: "#skills" },
   { label: "Experience", href: "#experience" },
   { label: "Certifications", href: "#certifications" },
-];
+]
 
 const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
