@@ -2,8 +2,8 @@
 
 
 ## My - Newest Portfolio Build
-
-### View hosted site at [shan.is-a.dev](https://shan.is-a.dev)
+## This build is still in works untill it goes main stream view at:
+### View hosted site at [portfolio.shan.is-a.dev](https://portfolio.shan.is-a.dev)
 
 ## Project Structure
 
